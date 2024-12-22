@@ -1,0 +1,1 @@
+This is the starting phase of the implementation of the kernel of a 32 bit operating system. My next step is to include the c cross compiler. I would appreciate any hep or guidance to implement this project.
